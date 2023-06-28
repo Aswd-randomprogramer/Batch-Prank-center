@@ -1,0 +1,2 @@
+Set wshShell = CreateObject("WScript.Shell")
+wshShell.SendKeys "{CAPSLOCK}"
